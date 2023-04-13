@@ -45,7 +45,7 @@ python spotify_assistant.py
 Then, the script will prompt you to enter your user query. As an example:
 
 ```
-Tell your Spotify assistant what to do: Play my playlist called "Workout"
+Tell your Spotify assistant what to do: Create a playlist called "My Playlist" with the song "The Less I Know the Better" by Tame Impala
 ```
 
 ## How it works
