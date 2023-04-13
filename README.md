@@ -24,15 +24,6 @@ A simple Python script that uses the LangChain library to create a Spotify chatb
    - `SPOTIPY_CLIENT_ID`: Your Spotify client ID.
    - `SPOTIPY_CLIENT_SECRET`: Your Spotify client secret.
    - `SPOTIPY_REDIRECT_URI`: Your Spotify app redirect URI.
- 
-   Alternatively, you can replace the placeholders in the following lines of the code with the corresponding values:
-
-   ```
-   os.environ["OPENAI_API_KEY"]="replace"
-   os.environ["SPOTIPY_CLIENT_ID"]="replace"
-   os.environ["SPOTIPY_CLIENT_SECRET"]="replace"
-   os.environ["SPOTIPY_REDIRECT_URI"]="replace"
-   ```
 
 ## Usage
 
